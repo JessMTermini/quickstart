@@ -1,10 +1,6 @@
 # Prisma Quickstart
 
-This repository contains the starter template for the 5min Quickstart in the [Prisma docs](https://www.prisma.io/docs).
-
-- [TypeScript](https://www.prisma.io/docs/getting-started/quickstart-typescript)
-
-You can also download and use a [JavaScript](https://www.prisma.io/docs/getting-started/quickstart-javascript) version of the same project.
+This repository contains the starter template for the 5min [Quickstart](https://www.prisma.io/docs/getting-started/quickstart) in the [Prisma docs](https://www.prisma.io/docs).
 
 ## Community
 
