@@ -2,5 +2,13 @@
   "extends": [
     "config:base"
   ],
-  "additionalReviewers": ["ruheni"]
+  "automerge": true,
+  "additionalReviewers": ["ruheni"],
+  "packageRules": [
+    {
+      "packageNames": ["prisma", "@prisma/client"],
+      "enabled": true,
+      "updateTypes": ["major", "minor", "patch"]
+    }
+  ]
 }
